@@ -10,7 +10,7 @@ Het spel moet aan de volgende functionele eisen voldoen:
 * De pagina `Er heerst paniek...` bevat een formulier met de volgende velden:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paniek formulier](https://trello-attachments.s3.amazonaws.com/560a96f121ea128f7713cd0d/150x132/f33c9ca70bd09e2ca1f8f16cc3e5a603/upload_29_9_2015_at_16_05_41.png)](https://trello-attachments.s3.amazonaws.com/560a96f121ea128f7713cd0d/591x522/824e303638b946ead6cc2c37e617d5ac/upload_29_9_2015_at_16_05_41.png)
-* De pagina `Onkunde` bevat een formulier met de volgende velden:
+* Na verzenden van het formulier `Er heerst paniek...` worden de ingevulde gegevens als volgt worden gebruikt:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paniek resultaat](https://trello-attachments.s3.amazonaws.com/560a970e3d8e628613825582/150x126/fddf1b37ba7a9a54871b8d4e89c2acc4/upload_29_9_2015_at_15_58_39.png)](https://trello-attachments.s3.amazonaws.com/560a970e3d8e628613825582/591x498/e0c813a9afa71818df2ba9b6de8168d4/upload_29_9_2015_at_15_58_39.png)
 * De pagina `Onkunde` bevat een formulier met de volgende velden:

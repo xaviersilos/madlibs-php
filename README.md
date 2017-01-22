@@ -7,7 +7,6 @@ De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. 
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Het spel moet aan de volgende functionele eisen voldoen:
-* De web applicatie bestaat uit 2 pagina's.
 * De pagina `Onkunde` bevat een formulier met de volgende velden:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Onkunde formulier](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/150x132/74bc8636908c511df7d095dd22d41e45/upload_29_9_2015_at_16_06_11.png)](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/591x522/83e2ce3ecd971b0299eb85af6e1161ad/upload_29_9_2015_at_16_06_11.png)
@@ -17,9 +16,9 @@ Het spel moet aan de volgende functionele eisen voldoen:
 * De pagina `Onkunde` bevat een formulier met de volgende velden:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Onkunde formulier](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/150x132/74bc8636908c511df7d095dd22d41e45/upload_29_9_2015_at_16_06_11.png)](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/591x522/83e2ce3ecd971b0299eb85af6e1161ad/upload_29_9_2015_at_16_06_11.png)
-* De pagina `Onkunde` bevat een formulier met de volgende velden:
+* Na verzenden van het formulier `Onkunde` worden de ingevulde gegevens als volgt worden gebruikt:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Onkunde formulier](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/150x132/74bc8636908c511df7d095dd22d41e45/upload_29_9_2015_at_16_06_11.png)](https://trello-attachments.s3.amazonaws.com/560a99563ed1beef865effa7/591x522/83e2ce3ecd971b0299eb85af6e1161ad/upload_29_9_2015_at_16_06_11.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Onkunde formulier](https://trello-attachments.s3.amazonaws.com/560a997c66c4f5a70acd7df5/150x88/562d9e80d5c2576878a6c5351cb6e9ec/upload_29_9_2015_at_16_04_31.png)](https://trello-attachments.s3.amazonaws.com/560a997c66c4f5a70acd7df5/591x346/04e7f51bc22b2fa351ee2cc2806438ef/upload_29_9_2015_at_16_04_31.png)
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven. 

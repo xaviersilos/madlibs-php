@@ -3,7 +3,7 @@ Tijdens deze opdracht ga je een dynamische web applicatie ontwikkelen waar de be
 
 De opdracht bestaat uit twee type eisen, functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
-###Functionele eisen
+### Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Het spel moet aan de volgende functionele eisen voldoen:
@@ -20,7 +20,7 @@ Het spel moet aan de volgende functionele eisen voldoen:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Onkunde resultaat](https://trello-attachments.s3.amazonaws.com/560a997c66c4f5a70acd7df5/150x88/562d9e80d5c2576878a6c5351cb6e9ec/upload_29_9_2015_at_16_04_31.png)](https://trello-attachments.s3.amazonaws.com/560a997c66c4f5a70acd7df5/591x346/04e7f51bc22b2fa351ee2cc2806438ef/upload_29_9_2015_at_16_04_31.png)
 
-###Technische eisen
+### Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven. 
 
 Het spel moet aan de volgende technische eisen voldoen:
